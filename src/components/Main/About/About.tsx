@@ -9,8 +9,8 @@ export default function About() {
           <Users className="text-foreground" />
           <h1 className="font-medium text-xl text-foreground">Quem somos</h1>
           <h2 className="text-foreground h-12 md:h-14 lg:h-20">
-            Descubra como começamos e o que nos motiva todos os dias a
-            reimaginar a mobilidade.
+            Descubra como começamos e o que nos motiva a reimaginar a
+            mobilidade.
           </h2>
           <Link
             href={"#"}
