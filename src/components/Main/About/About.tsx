@@ -53,8 +53,8 @@ export default function About() {
           <Waypoints className="text-foreground" />
           <h1 className="font-medium text-xl text-foreground">Conectividade</h1>
           <h2 className="text-foreground h-12 md:h-14 lg:h-20">
-            Veja como lidamos com os desafios de conectar diferentes continentes
-            em um mesmo ecossistema.
+            Veja como lidamos com os desafios de conectar diferentes
+            continentes.
           </h2>
           <Link
             href={"#"}
