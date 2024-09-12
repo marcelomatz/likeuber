@@ -13,6 +13,7 @@ const config: Config = {
         foreground: "var(--foreground)",
         linkDefault: "var(--linkDefault)",
         linkHover: "var(--linkHover)",
+        appAreaBackground: "var(--appAreaBackground)",
       },
       backgroundImage: {
         uber: "url('/bguber.png')",

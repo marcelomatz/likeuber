@@ -39,8 +39,7 @@ export default function About() {
             Cidadania global
           </h1>
           <h2 className="text-foreground h-12 md:h-14 lg:h-20">
-            Leia sobre nosso compromisso de gerar um impacto positivo nas
-            cidades que atendemos.
+            Leia sobre nosso compromisso na geração de impacto no mundo.
           </h2>
           <Link
             href={"#"}
