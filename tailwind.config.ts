@@ -12,6 +12,10 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        uber: "url('/bguber.png')",
+        city: "url('/bg-city.png')",
+      },
     },
   },
   plugins: [],
