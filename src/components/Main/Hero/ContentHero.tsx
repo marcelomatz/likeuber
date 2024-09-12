@@ -12,19 +12,19 @@ export default function ContentHero() {
           <section className="flex-1 p-2 flex flex-col items-center justify-center gap-2 bg-foreground text-background cursor-pointer duration-500">
             {firstIcon}
             <h2 className="text-center text-sm sm:text-base font-medium">
-              Dirija na Uber
+              Parceiros
             </h2>
           </section>
           <section className="flex-1 p-2 flex flex-col items-center justify-center gap-2 hover:bg-foreground hover:text-background hover:cursor-pointer duration-500">
             {secoundIcon}
             <h2 className="text-center text-sm sm:text-base font-medium">
-              Faça viagens
+              Viagens
             </h2>
           </section>
           <section className="flex-1 p-2 flex flex-col items-center justify-center gap-2 hover:bg-foreground hover:text-background hover:cursor-pointer duration-500">
             {thirdIcon}
             <h2 className="text-center text-sm sm:text-base font-medium">
-              Alugue seus carros
+              Aluguéis
             </h2>
           </section>
         </div>
