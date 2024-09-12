@@ -1,4 +1,5 @@
 import About from "./About/About";
+import AppCta from "./AppCta/AppCta";
 import AppDownload from "./AppDownload/AppDownload";
 import BlogSection from "./BlogSection/BlogSection";
 import BusinessCta from "./Hero/BusinessCta";
@@ -12,6 +13,7 @@ export default function MainPage() {
       <BlogSection />
       <About />
       <AppDownload />
+      <AppCta />
     </>
   );
 }
