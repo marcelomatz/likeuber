@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <header className="w-full bg-transparent/95 h-14 sm:h-20 px-4 fixed flex top-0 shadow-2xl shadow-foreground">
+    <header className="w-full bg-transparent/95 h-14 sm:h-20 px-4 fixed flex top-0 shadow-2xl shadow-foreground z-20">
       <div className="w-full flex items-center justify-between max-w-3xl sm:max-w-xl md:max-w-7xl mx-auto">
         <div className="flex items-center">
           <Image

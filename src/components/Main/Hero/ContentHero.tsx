@@ -40,7 +40,7 @@ export default function ContentHero() {
           </button>
           <Link
             href={"#"}
-            className="text-gray-700 mt-5 mb-4 border-b-2 self-start hover:border-gray-700 duration-200"
+            className="text-linkDefault mt-5 mb-4 border-b-2 self-start hover:border-linkHover duration-200"
           >
             Saiba mais sobre como dirigir e fazer entregas
           </Link>
